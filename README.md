@@ -1,2 +1,2 @@
 # Sinage_App
-Signage Application using Nodjs/Express.js.
+Signage Application using Node.js/Express.js.
